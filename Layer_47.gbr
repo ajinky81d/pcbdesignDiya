@@ -1,0 +1,17 @@
+G04 CAM350 V10.2.0 (Build 386) Date:  Sat Feb 01 15:24:05 2025 *
+G04 Database: c:\users\comp1\desktop\ajinkya_\gerber data\round 10s 5p\round 10s5p.cam *
+G04 Layer 47: Layer_47 *
+%FSLAX24Y24*%
+%MOIN*%
+%SFA1.000B1.000*%
+
+%MIA0B0*%
+%IPPOS*%
+%ADD31C,0.07874*%
+%LNLayer_47*%
+%LPD*%
+G54D31*
+X22638Y0D02*
+G75*
+G03X22638Y0I-22638D01*
+M02*

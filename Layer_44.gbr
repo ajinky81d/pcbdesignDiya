@@ -1,0 +1,19 @@
+G04 CAM350 V10.2.0 (Build 386) Date:  Sat Feb 01 15:25:50 2025 *
+G04 Database: c:\users\comp1\desktop\ajinkya_\gerber data\round 115\round_pcb1.cam *
+G04 Layer 44: Layer_44 *
+%FSLAX24Y24*%
+%MOIN*%
+%SFA1.000B1.000*%
+
+%MIA0B0*%
+%IPPOS*%
+%LNLayer_44*%
+%LPD*%
+G36*
+X-22638Y-22638D02*
+G01Y23031D01*
+X22638*
+Y-22638*
+X-22638*
+G37*
+M02*
